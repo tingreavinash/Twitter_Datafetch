@@ -3,7 +3,7 @@
   "twitter_handle": "ShashiTharoor",
   "output_file": "TweetsFile.csv",
   "consumer_key" : "***********",
-  "consumer_secret" : "***********",
+  "consumer_secret" : "************",
   "access_key" : "***********",
   "access_secret" : "***********"
 
